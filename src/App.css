@@ -1,0 +1,60 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+.navbar {
+ 
+  color:aqua;
+  background-image: url("./images/brand.jpeg");
+}
+.footer{
+  margin-bottom: 0;
+  background-color: aqua;
+  padding: 2px;
+  
+}
+.cardd {
+  background: rgb(213, 165, 241);
+  width: '18rem' ;
+   background-image: url("./images/new.png");
+   color: rgb(110, 38, 16);
+   border-radius: 0ch; 
+   font-family: 'Anton', sans-serif;
+}
+
+
+.brand {
+  color:rgb(153, 4, 61);
+  background-color: rgb(39, 30, 87);
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+.navdesign {
+  color:rgb(167, 51, 51);
+  
+}
+.cardtext{
+  font-family: Impact, fantasy;
+  color: rgb(59, 43, 59);
+}
+
+.image1 {
+  border: rgb(145, 13, 24);
+  
+  margin-bottom: 1cm;
+  margin-top: 20px;
+  padding-right: 1cm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+
+}
+
+.body{
+  background-image: url("./images/bgi.jpeg");
+  color: rgb(14, 11, 13);
+  
+}
